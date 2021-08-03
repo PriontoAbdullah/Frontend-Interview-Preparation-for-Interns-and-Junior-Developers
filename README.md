@@ -28,6 +28,12 @@
  - [Most CSS Interview Q/A (interviewbit.com)](https://www.interviewbit.com/css-interview-questions/)
 
 ---
+## 🔥 Javascript Basic Practice
+
+ - [Revision Javascript (w3schools.com)](https://www.w3schools.com/js/default.asp)
+ - [Hands on Javascript (zonayed.js.org)](https://zonayed.js.org/)
+
+---
 ## 🚀 Contributing
 
 Contributions are always welcome!
