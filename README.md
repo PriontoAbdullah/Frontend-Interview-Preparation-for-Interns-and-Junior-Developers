@@ -32,6 +32,16 @@
 
  - [Revision Javascript (w3schools.com)](https://www.w3schools.com/js/default.asp)
  - [Hands on Javascript (zonayed.js.org)](https://zonayed.js.org/)
+ - [Recap Javascript Core Concepts (youtube.com)](https://youtube.com/playlist?list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq)
+
+---
+## 🎯 Javascript Top Questions & Answers
+
+ - [Top 50 Javascript Interview Q/A (edureka.co)](https://www.edureka.co/blog/interview-questions/javascript-interview-questions/)
+ - [Most Asked 100 Javascript Interview Q/A (hashnode.dev)](https://alimammiya.hashnode.dev/100-most-asked-javascript-interview-questions-and-answers-part-1/)
+ - [Javascript Interview Handbook Q/A (frontendinterviewhandbook.com)](https://frontendinterviewhandbook.com/en/javascript-questions/)
+ - [Top 10 Javascript Interview Q/A (medium.com)](https://javascript.plainenglish.io/top-10-javascript-interview-questions-9343421fe4e2/)
+
 
 ---
 ## 🚀 Contributing
