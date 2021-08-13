@@ -34,16 +34,31 @@
  - [Revision Javascript (w3schools.com)](https://www.w3schools.com/js/default.asp)
  - [Hands on Javascript (zonayed.js.org)](https://zonayed.js.org/)
  - [Recap Javascript Core Concepts (youtube.com)](https://youtube.com/playlist?list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq)
+ - [Recap Modern Javascript ES6 Concepts (youtube.com)](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG)
+ - [JavaScript Technical Interview Series (youtube.com)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0VVqPVPA3ccqtjpLLPwtN8)
 
 ---
 ## 🎯 Javascript Top Questions & Answers
 
  - [Top 50 Javascript Interview Q/A (edureka.co)](https://www.edureka.co/blog/interview-questions/javascript-interview-questions/)
  - [Most Asked 100 Javascript Interview Q/A (hashnode.dev)](https://alimammiya.hashnode.dev/100-most-asked-javascript-interview-questions-and-answers-part-1/)
- - [Javascript Interview Handbook Q/A (frontendinterviewhandbook.com)](https://frontendinterviewhandbook.com/en/javascript-questions/)
+ - [Top 145 JavaScript Interview Q/A (fullstack.cafe)](https://www.fullstack.cafe/interview-questions/javascript)
  - [Top 10 Javascript Interview Q/A (medium.com)](https://javascript.plainenglish.io/top-10-javascript-interview-questions-9343421fe4e2/)
+ - [10 Most Asked ES6 Interview Q/A (geeksforgeeks.org)](https://www.geeksforgeeks.org/10-most-asked-es6-interview-questions-answers-for-developers/)
+ - [JavaScript Interview Questions & Answers (github.com)](https://github.com/sudheerj/javascript-interview-questions)
+ - [Javascript Interview Handbook Q/A (frontendinterviewhandbook.com)](https://frontendinterviewhandbook.com/en/javascript-questions/)
+ 
+ ---
+## 🔮 React.js Basic Practice
 
+ - [Revision React.js (w3schools.com)](https://www.w3schools.com/react/default.asp)
 
+ ---
+## 🪙 React.js Top Questions & Answers
+
+ - [Top 50 React.js Interview Q/A (edureka.co)](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
+ 
+ 
 ---
 ## 🚀 Contributing
 
