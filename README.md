@@ -10,7 +10,8 @@
  - [Decoding the Front-end Interview Process (dev.to)](https://dev.to/emmabostian/decoding-the-front-end-interview-process-14dl)
  - [How to prepare for Frontend Developer Interviews (workat.tech)](https://workat.tech/frontend-development/article/prepare-for-frontend-developer-interview-sblagrzufdx3)
  - [Cracking the front-end interview (freecodecamp.org)](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
-
+ - [How to prepare for software engineering interview (youtube.com)](https://youtu.be/dCFsHECnkw8)
+ 
 ---
 ## 🛸 HTML & CSS Basic Practice
 
