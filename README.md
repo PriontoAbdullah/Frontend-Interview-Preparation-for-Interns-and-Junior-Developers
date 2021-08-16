@@ -1,4 +1,4 @@
-# Frontend Interview Preparation for Interns & Junior developer 📚
+# Frontend Interview Preparation for Interns & Junior Developers 📚
 
 > Click ⭐ if you like this repository. Pull Requests are highly appreciated. Please contribute your interview preparation notes here. 
 
@@ -9,8 +9,10 @@
 
  - [Decoding the Front-end Interview Process (dev.to)](https://dev.to/emmabostian/decoding-the-front-end-interview-process-14dl)
  - [How to prepare for Frontend Developer Interviews (workat.tech)](https://workat.tech/frontend-development/article/prepare-for-frontend-developer-interview-sblagrzufdx3)
- - [Cracking the front-end interview (freecodecamp.org)](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
- - [How to prepare for software engineering interview (youtube.com)](https://youtu.be/dCFsHECnkw8)
+ - [Cracking the Front-end Interview (freecodecamp.org)](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
+ - [How to prepare for Software Engineering Interview (youtube.com)](https://youtu.be/dCFsHECnkw8)
+ - [How to write a Resume of a Software Engineer (youtube.com)](https://youtu.be/ELGK9NRtyss)
+ - [How to write a Cover letter of a Web Developer (zety.com)](https://zety.com/blog/web-developer-cover-letter-example)
  
 ---
 ## 🛸 HTML & CSS Basic Practice
@@ -52,11 +54,15 @@
 ## 🔮 React.js Basic Practice
 
  - [Revision React.js (w3schools.com)](https://www.w3schools.com/react/default.asp)
+ - [Recap React.js Core Concepts (youtube.com)](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
+ - [React Interview Questions (scrimba.com)](https://scrimba.com/learn/reactinterview)
 
  ---
-## 🪙 React.js Top Questions & Answers
+## 🏆 React.js Top Questions & Answers
 
  - [Top 50 React.js Interview Q/A (edureka.co)](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
+ - [Top 155 React.js Interview Q/A (fullstack.cafe)](https://www.fullstack.cafe/interview-questions/react)
+ - [React.js Interview Questions & Answers (github.com)](https://github.com/sudheerj/reactjs-interview-questions)
  
  
 ---
