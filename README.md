@@ -29,6 +29,8 @@
  - [Top 50 CSS Interview Q/A (edureka.co)](https://www.edureka.co/blog/interview-questions/css-interview-questions/)
  - [Most HTML Interview Q/A (interviewbit.com)](https://www.interviewbit.com/html-interview-questions/)
  - [Most CSS Interview Q/A (interviewbit.com)](https://www.interviewbit.com/css-interview-questions/)
+ - [Top 55 HTML Interview Q/A (fullstack.cafe)](https://www.fullstack.cafe/interview-questions/html5)
+ - [Top 50 CSS Interview Q/A (fullstack.cafe)](https://www.fullstack.cafe/interview-questions/css)
 
 ---
 ## 🔥 Javascript Basic Practice
@@ -47,6 +49,7 @@
  - [Top 145 JavaScript Interview Q/A (fullstack.cafe)](https://www.fullstack.cafe/interview-questions/javascript)
  - [Top 10 Javascript Interview Q/A (medium.com)](https://javascript.plainenglish.io/top-10-javascript-interview-questions-9343421fe4e2/)
  - [10 Most Asked ES6 Interview Q/A (geeksforgeeks.org)](https://www.geeksforgeeks.org/10-most-asked-es6-interview-questions-answers-for-developers/)
+ - [Most JavaScript Interview Q/A (interviewbit.com)](https://www.interviewbit.com/javascript-interview-questions/)
  - [JavaScript Interview Questions & Answers (github.com)](https://github.com/sudheerj/javascript-interview-questions)
  - [Javascript Interview Handbook Q/A (frontendinterviewhandbook.com)](https://frontendinterviewhandbook.com/en/javascript-questions/)
  
@@ -62,9 +65,20 @@
 
  - [Top 50 React.js Interview Q/A (edureka.co)](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
  - [Top 155 React.js Interview Q/A (fullstack.cafe)](https://www.fullstack.cafe/interview-questions/react)
+ - [21 Essential React.js Interview Q/A (toptal.com)](https://www.toptal.com/react/interview-questions)
+ - [7 Most Asked React.js Interview Q/A (geeksforgeeks.org)](https://www.geeksforgeeks.org/7-most-asked-reactjs-interview-questions-answers/)
+ - [Most React.js Interview Q/A (interviewbit.com)](https://www.interviewbit.com/react-interview-questions/)
  - [React.js Interview Questions & Answers (github.com)](https://github.com/sudheerj/reactjs-interview-questions)
  
- 
+  ---
+## 🎁 Frontend Interview Questions & Answers
+
+ - [100 Front End Interview Questions Challenge (udemy.com)](https://www.udemy.com/course/100-front-end-interview-questions-challenge/)
+ - [50 Common Front End Developer Interview Q/A (fullstack.cafe)](https://www.fullstack.cafe/blog/front-end-developer-interview-questions)
+ - [List of Front End Interview Q/A (frontendmasters.com)](https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html)
+ - [Interview Question & Answers for Front End Developer (thatjsdude.com)](https://thatjsdude.com/interview/)
+ - [Clearing your Front End Job Interview — JavaScript (codeburst.io)](https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4)
+
 ---
 ## 🚀 Contributing
 
