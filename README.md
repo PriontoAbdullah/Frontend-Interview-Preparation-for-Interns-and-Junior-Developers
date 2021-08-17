@@ -1,8 +1,8 @@
 # Frontend Interview Preparation for Interns & Junior Developers 📚
 
-> Click ⭐ if you like this repository. Pull Requests are highly appreciated. Please contribute your interview preparation notes here. 
+> `Click ⭐` if you like this repository. Pull Requests are highly appreciated. Please contribute your interview preparation notes here. 
 
-> Special thanks ❤️ to those, whose contributions have been shared here and those who are contributing here.
+> `Special thanks ❤️` to those, whose contributions have been shared here and those who are contributing here.
 
 ---
 ## 💎 Interview Preparation Process
@@ -59,6 +59,7 @@
  - [Revision React.js (w3schools.com)](https://www.w3schools.com/react/default.asp)
  - [Recap React.js Core Concepts (youtube.com)](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
  - [React Interview Questions (scrimba.com)](https://scrimba.com/learn/reactinterview)
+ - [Front End Development Libraries (freecodecamp.org)](https://www.freecodecamp.org/learn/front-end-libraries/)
 
  ---
 ## 🏆 React.js Top Questions & Answers
@@ -77,8 +78,41 @@
  - [50 Common Front End Developer Interview Q/A (fullstack.cafe)](https://www.fullstack.cafe/blog/front-end-developer-interview-questions)
  - [List of Front End Interview Q/A (frontendmasters.com)](https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html)
  - [Interview Question & Answers for Front End Developer (thatjsdude.com)](https://thatjsdude.com/interview/)
- - [Clearing your Front End Job Interview — JavaScript (codeburst.io)](https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4)
+ - [Clearing your Front End Job Interview - JavaScript (codeburst.io)](https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4)
+ - [Front-end Developer Interview Questions (github.com)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+ - [Technical Interviewing for Front-End Engineers (frontendmasters.com)](https://frontendmasters.com/courses/interviewing-frontend/)
 
+  ---
+## 💺 Backend Interview Questions & Answers
+
+ - [Top 50 Node.js Interview Q/A (edureka.co)](https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/)
+ - [Most 25 Node.js Interview Q/A (guru99.com)](https://www.guru99.com/node-js-interview-questions.html)
+ - [Most Asked Node.js Interview Q/A (interviewbit.com)](https://www.interviewbit.com/node-js-interview-questions/)
+ - [Top 20 MongoDB Interview Q/A (guru99.com)](https://www.guru99.com/mongodb-interview-questions.html)
+ - [66 MERN Stack Interview Q/A (fullstack.cafe)](https://www.fullstack.cafe/blog/mern-stack-interview-questions)
+ - [Crack your MERN Interview with these Questions (dev.to)](https://dev.to/commentme/crack-your-mern-interview-with-these-questions-3ji3)
+ 
+   ---
+## 📺 Computer Science Interview Questions & Answers
+
+ - [Recap Object-Oriented Programming Core Concepts (youtube.com)](https://youtu.be/QpDemIZnPSM)
+ - [Four Basics of Object-Oriented Programming (indeed.com)](https://www.indeed.com/career-advice/career-development/what-is-object-oriented-programming)
+ - [Recap Data Structure & Algorithms Core Concepts (youtube.com)](https://www.youtube.com/playlist?list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_)
+ - [Revision Data Structure & Algorithms (programiz.com)](https://www.programiz.com/dsa)
+ - [Data Structure & Algorithms Course with Javascript (youtube.com)](https://www.youtube.com/playlist?list=PL_HlKez9XCSOi5thYDzipbJ2pEdzop7vx)
+ - [25 Essential Computer Science Interview Q/A (educba.com)](https://www.educba.com/computer-science-interview-questions/)
+ - [Top 20 Computer Science Interview Q/A (indeed.com)](https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions)
+ - [Recap 7 Most Important Software Design Patterns (medium.com)](https://medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e)
+ 
+  ---
+## 🛖 Behavioral Interview Questions & Answers
+
+ - [Traditional & Behavioural HR Interview Q/A (interviewbit.com)](https://www.interviewbit.com/hr-interview-questions/)
+ - [10 Behavioral Interview Q/A for Software Engineers (indeed.com)](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
+ - [Top 8 Behavioral Interview Questions and Answers (careerkarma)](https://careerkarma.com/blog/behavioral-interview-questions/)
+ - [45 behavioral Q/A during Non-Technical Interview (devskiller.com)](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
+ 
+ 
 ---
 ## 🚀 Contributing
 
