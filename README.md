@@ -1,8 +1,8 @@
 # Frontend Interview Preparation for Interns & Junior Developers 📚
 
-> `Click ⭐` if you like this repository. Pull Requests are highly appreciated. Please contribute your interview preparation notes here. 
+> #### `Click` ⭐ if you like this repository. Pull Requests are highly appreciated. Please contribute your interview preparation notes here. 
 
-> `Special thanks ❤️` to those, whose contributions have been shared here and those who are contributing here.
+> #### `Special Thanks` ❤️ to those, whose contributions have been shared here and those who are contributing here.
 
 ---
 ## 💎 Interview Preparation Process
@@ -92,7 +92,7 @@
  - [66 MERN Stack Interview Q/A (fullstack.cafe)](https://www.fullstack.cafe/blog/mern-stack-interview-questions)
  - [Crack your MERN Interview with these Questions (dev.to)](https://dev.to/commentme/crack-your-mern-interview-with-these-questions-3ji3)
  
-   ---
+  ---
 ## 📺 Computer Science Interview Questions & Answers
 
  - [Recap Object-Oriented Programming Core Concepts (youtube.com)](https://youtu.be/QpDemIZnPSM)
@@ -105,14 +105,38 @@
  - [Recap 7 Most Important Software Design Patterns (medium.com)](https://medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e)
  
   ---
-## 🛖 Behavioral Interview Questions & Answers
+## 🎀 Behavioral Interview Questions & Answers
 
  - [Traditional & Behavioural HR Interview Q/A (interviewbit.com)](https://www.interviewbit.com/hr-interview-questions/)
  - [10 Behavioral Interview Q/A for Software Engineers (indeed.com)](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
  - [Top 8 Behavioral Interview Questions and Answers (careerkarma)](https://careerkarma.com/blog/behavioral-interview-questions/)
  - [45 behavioral Q/A during Non-Technical Interview (devskiller.com)](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
  
- 
+ ---
+## 🎊 Mock Interview Examples
+
+ - [Front End Mock Technical Interview (youtube.com)](https://youtu.be/vomuCMmoNyE)
+ - [Mock React Job Interview (youtube.com)](https://youtu.be/ZV373VaS4UM)
+ - [Another Mock React Interview (youtube.com)](https://youtu.be/6b19E5BmqnI)
+ - [Mock interview Junior developer (youtube.com)](https://youtu.be/eO7Sl1BYXoE)
+ - [Mock Interview Mid level React.js Dev (youtube.com)](https://youtu.be/ClzYWfMUC_0)
+ - [Mock Live Software Engineering Coding Interview (youtube.com)](https://youtu.be/hqDTPGsiQVg)
+
+ ---
+## 🎉 Interview Experience & Recruitment Stories
+
+ - [Unacademy Interview Experience (rajatgupta.xyz)](https://rajatgupta.xyz/unacademy-interview)
+ - [Recruitment Process at Brain Station 23 (tahanima.github.io)](https://tahanima.github.io/2020/06/21/recruitment-stories-experience-of-proteeti-at-bs23/)
+ - [Recruitment Process at NewsCred (tahanima.github.io)](https://tahanima.github.io/2021/02/17/recruitment-stories-experience-of-tahmid-at-newscred/)
+ - [Recruitment Process at SELISE (tahanima.github.io)](https://tahanima.github.io/2021/05/21/recruitment-stories-experience-of-subhashis-at-selise/)
+ - [Recruitment Process at Cefalo (tahanima.github.io)](https://tahanima.github.io/2021/05/03/recruitment-stories-experience-of-asma-at-cefalo/)
+ - [Recruitment Process at ShopUp (tahanima.github.io)](https://tahanima.github.io/2020/12/25/recruitment-stories-experience-of-fahad-at-shopup/)
+ - [Recruitment Process at Kona Software Lab (tahanima.github.io)](https://tahanima.github.io/2021/04/02/recruitment-stories-experience-of-montaser-at-kona/)
+ - [Recruitment Process at ReliSource (tahanima.github.io)](https://tahanima.github.io/2020/12/10/recruitment-stories-experience-of-khairul-at-relisource/)
+ - [Recruitment Process at Enosis (tahanima.github.io)](https://tahanima.github.io/2020/06/25/recruitment-stories-experience-of-sabera-at-enosis/)
+ - [Recruitment Process at Infolytx (tahanima.github.io)](https://tahanima.github.io/2020/05/09/recruitment-stories-experience-of-jaber-at-infolytx/)
+ - [Recruitment Process at Dynamic Solution Innovators (tahanima.github.io)](https://tahanima.github.io/2020/06/15/recruitment-stories-experience-of-afrida-at-dsi/)
+
 ---
 ## 🚀 Contributing
 
