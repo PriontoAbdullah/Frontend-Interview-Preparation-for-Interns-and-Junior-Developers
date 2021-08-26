@@ -40,6 +40,7 @@
  - [Recap Javascript Core Concepts (youtube.com)](https://youtube.com/playlist?list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq)
  - [Recap Modern Javascript ES6 Concepts (youtube.com)](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG)
  - [JavaScript Technical Interview Series (youtube.com)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0VVqPVPA3ccqtjpLLPwtN8)
+ - [Cheatsheets of JavaScript (codecademy.com)](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 
 ---
 ## 🎯 Javascript Top Questions & Answers
@@ -60,6 +61,7 @@
  - [Recap React.js Core Concepts (youtube.com)](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
  - [React Interview Questions (scrimba.com)](https://scrimba.com/learn/reactinterview)
  - [Front End Development Libraries (freecodecamp.org)](https://www.freecodecamp.org/learn/front-end-libraries/)
+ - [Cheatsheets of React.js (codecademy.com)](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet)
 
  ---
 ## 🏆 React.js Top Questions & Answers
@@ -95,7 +97,7 @@
   ---
 ## 📺 Computer Science Interview Questions & Answers
 
- - [Recap Object-Oriented Programming Core Concepts (youtube.com)](https://youtu.be/QpDemIZnPSM)
+ - [Recap Object-Oriented Programming Core Concepts (youtube.com)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCqNHQtxzS9LbeNRMG4AJmG)
  - [Four Basics of Object-Oriented Programming (indeed.com)](https://www.indeed.com/career-advice/career-development/what-is-object-oriented-programming)
  - [Recap Data Structure & Algorithms Core Concepts (youtube.com)](https://www.youtube.com/playlist?list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_)
  - [Revision Data Structure & Algorithms (programiz.com)](https://www.programiz.com/dsa)
