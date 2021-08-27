@@ -119,7 +119,6 @@
 
  - [Front End Mock Technical Interview (youtube.com)](https://youtu.be/vomuCMmoNyE)
  - [Mock React Job Interview (youtube.com)](https://youtu.be/ZV373VaS4UM)
- - [Another Mock React Interview (youtube.com)](https://youtu.be/6b19E5BmqnI)
  - [Mock interview Junior developer (youtube.com)](https://youtu.be/eO7Sl1BYXoE)
  - [Mock Interview Mid level React.js Dev (youtube.com)](https://youtu.be/ClzYWfMUC_0)
  - [Mock Live Software Engineering Coding Interview (youtube.com)](https://youtu.be/hqDTPGsiQVg)
