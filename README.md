@@ -72,6 +72,7 @@
  - [7 Most Asked React.js Interview Q/A (geeksforgeeks.org)](https://www.geeksforgeeks.org/7-most-asked-reactjs-interview-questions-answers/)
  - [Most React.js Interview Q/A (interviewbit.com)](https://www.interviewbit.com/react-interview-questions/)
  - [React.js Interview Questions & Answers (github.com)](https://github.com/sudheerj/reactjs-interview-questions)
+ - [Top 4 Mistakes in React Interviews (dev.to)](https://dev.to/andyrewlee/top-4-mistakes-in-react-interviews-b4i)
  
   ---
 ## 🎁 Frontend Interview Questions & Answers
