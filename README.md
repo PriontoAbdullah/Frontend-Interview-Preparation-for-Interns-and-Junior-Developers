@@ -84,6 +84,7 @@
  - [Clearing your Front End Job Interview - JavaScript (codeburst.io)](https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4)
  - [Front-end Developer Interview Questions (github.com)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
  - [Technical Interviewing for Front-End Engineers (frontendmasters.com)](https://frontendmasters.com/courses/interviewing-frontend/)
+ - [Frontend Interview Cheatsheet (itnext.io)](https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7)
 
   ---
 ## 💺 Backend Interview Questions & Answers
