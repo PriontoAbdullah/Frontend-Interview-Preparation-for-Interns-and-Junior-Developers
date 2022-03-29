@@ -40,6 +40,7 @@
  - [Recap Javascript Core Concepts (youtube.com)](https://youtube.com/playlist?list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq)
  - [Recap Modern Javascript ES6 Concepts (youtube.com)](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG)
  - [JavaScript Technical Interview Series (youtube.com)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0VVqPVPA3ccqtjpLLPwtN8)
+ - [Advanced Theoretical JavaScript (codedamn.com)](https://codedamn.com/learn/advanced-theoritical-js)
  - [Cheatsheets of JavaScript (codecademy.com)](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 
 ---
@@ -84,6 +85,7 @@
  - [Clearing your Front End Job Interview - JavaScript (codeburst.io)](https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4)
  - [Front-end Developer Interview Questions (github.com)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
  - [Technical Interviewing for Front-End Engineers (frontendmasters.com)](https://frontendmasters.com/courses/interviewing-frontend/)
+ - [Interview questions for web development (codedamn.com)](https://codedamn.com/learn/web-development-interview)
  - [Frontend Interview Cheatsheet (itnext.io)](https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7)
 
   ---
