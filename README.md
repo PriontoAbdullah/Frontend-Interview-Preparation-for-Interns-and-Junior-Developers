@@ -87,6 +87,7 @@
  - [Technical Interviewing for Front-End Engineers (frontendmasters.com)](https://frontendmasters.com/courses/interviewing-frontend/)
  - [Interview questions for web development (codedamn.com)](https://codedamn.com/learn/web-development-interview)
  - [Frontend Interview Cheatsheet (itnext.io)](https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7)
+ - [Amazon Front-End Engineer Interview Prep (github.com)](https://github.com/SenayYakut/Amazon-Front-end-Engineer-Interview-prep)
 
   ---
 ## 💺 Backend Interview Questions & Answers
