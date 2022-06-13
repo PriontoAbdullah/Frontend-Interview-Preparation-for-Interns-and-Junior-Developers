@@ -127,6 +127,7 @@
  - [Mock interview Junior developer (youtube.com)](https://youtu.be/eO7Sl1BYXoE)
  - [Mock Interview Mid level React.js Dev (youtube.com)](https://youtu.be/ClzYWfMUC_0)
  - [Mock Live Software Engineering Coding Interview (youtube.com)](https://youtu.be/hqDTPGsiQVg)
+ - [ReactJs Interview (Playlist) | ReactJs & Javascript | Frontend (youtube.com)](https://www.youtube.com/playlist?list=PLqBFzB0Lw6GDyaqLvsGKkUNqZgX4cHyN0)
 
  ---
 ## 🎉 Interview Experience & Recruitment Stories
