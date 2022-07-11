@@ -62,6 +62,7 @@
  - [Recap React.js Core Concepts (youtube.com)](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
  - [React Interview Questions (scrimba.com)](https://scrimba.com/learn/reactinterview)
  - [Front End Development Libraries (freecodecamp.org)](https://www.freecodecamp.org/learn/front-end-libraries/)
+ - [11 Advanced React Interview Questions (medium.com)](https://tapajyoti-bose.medium.com/11-advanced-react-interview-questions-you-should-absolutely-know-with-detailed-answers-e306083ecb7d)
  - [Cheatsheets of React.js (codecademy.com)](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet)
 
  ---
