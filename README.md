@@ -1,6 +1,6 @@
 # Frontend Interview Preparation for Interns & Junior Developers 📚
 
-> #### `Click` ⭐ if you like this repository. Pull Requests are highly appreciated. Please contribute your interview preparation notes here. 
+> #### `Click` ⭐ if you like this repository. Pull Requests are highly appreciated. Please contribute your interview preparation notes here.
 
 > #### `Special Thanks` ❤️ to those, whose contributions have been shared here and those who are contributing here.
 
@@ -13,7 +13,7 @@
  - [How to prepare for Software Engineering Interview (youtube.com)](https://youtu.be/dCFsHECnkw8)
  - [How to write a Resume of a Software Engineer (youtube.com)](https://youtu.be/ELGK9NRtyss)
  - [How to write a Cover letter of a Web Developer (zety.com)](https://zety.com/blog/web-developer-cover-letter-example)
- 
+
 ---
 ## 🛸 HTML & CSS Basic Practice
 
@@ -54,7 +54,7 @@
  - [Most JavaScript Interview Q/A (interviewbit.com)](https://www.interviewbit.com/javascript-interview-questions/)
  - [JavaScript Interview Questions & Answers (github.com)](https://github.com/sudheerj/javascript-interview-questions)
  - [Javascript Interview Handbook Q/A (frontendinterviewhandbook.com)](https://frontendinterviewhandbook.com/en/javascript-questions/)
- 
+
  ---
 ## 🔮 React.js Basic Practice
 
@@ -75,7 +75,7 @@
  - [Most React.js Interview Q/A (interviewbit.com)](https://www.interviewbit.com/react-interview-questions/)
  - [React.js Interview Questions & Answers (github.com)](https://github.com/sudheerj/reactjs-interview-questions)
  - [Top 4 Mistakes in React Interviews (dev.to)](https://dev.to/andyrewlee/top-4-mistakes-in-react-interviews-b4i)
- 
+
   ---
 ## 🎁 Frontend Interview Questions & Answers
 
@@ -99,7 +99,7 @@
  - [Top 20 MongoDB Interview Q/A (guru99.com)](https://www.guru99.com/mongodb-interview-questions.html)
  - [66 MERN Stack Interview Q/A (fullstack.cafe)](https://www.fullstack.cafe/blog/mern-stack-interview-questions)
  - [Crack your MERN Interview with these Questions (dev.to)](https://dev.to/commentme/crack-your-mern-interview-with-these-questions-3ji3)
- 
+
   ---
 ## 📺 Computer Science Interview Questions & Answers
 
@@ -111,15 +111,26 @@
  - [25 Essential Computer Science Interview Q/A (educba.com)](https://www.educba.com/computer-science-interview-questions/)
  - [Top 20 Computer Science Interview Q/A (indeed.com)](https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions)
  - [Recap 7 Most Important Software Design Patterns (medium.com)](https://medium.com/educative/the-7-most-important-software-design-patterns-d60e546afb0e)
- 
+
   ---
+
+## 🧑‍💻 Practice Practical & Technical Coding Challenges
+
+ - [Algorithm and Data Structures Problem Practice (leetcode.com)](https://leetcode.com/)
+ - [Front-End Coding Problem Practice (bigfrontend.dev)](https://bigfrontend.dev/)
+ - [HTML/CSS/Javascript Problem Practice (acefrontend.com)](https://www.acefrontend.com/)
+ - [CSS Specific Problem Practice (cssbattle.dev)](https://cssbattle.dev/)
+ - [Project Based Problem Practice (frontendmentor.io)](https://www.frontendmentor.io/challenges)
+
+  ---
+
 ## 🎀 Behavioral Interview Questions & Answers
 
  - [Traditional & Behavioural HR Interview Q/A (interviewbit.com)](https://www.interviewbit.com/hr-interview-questions/)
  - [10 Behavioral Interview Q/A for Software Engineers (indeed.com)](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
  - [Top 8 Behavioral Interview Questions and Answers (careerkarma)](https://careerkarma.com/blog/behavioral-interview-questions/)
  - [45 behavioral Q/A during Non-Technical Interview (devskiller.com)](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
- 
+
  ---
 ## 🎊 Mock Interview Examples
 
