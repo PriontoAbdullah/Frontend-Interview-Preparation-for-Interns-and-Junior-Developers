@@ -132,6 +132,7 @@
  - [10 Behavioral Interview Q/A for Software Engineers (indeed.com)](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
  - [Top 8 Behavioral Interview Questions and Answers (careerkarma)](https://careerkarma.com/blog/behavioral-interview-questions/)
  - [45 behavioral Q/A during Non-Technical Interview (devskiller.com)](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
+ - [Top 27 Common Job Interview Questions and Answers (drive.google.com)](https://drive.google.com/file/d/1t8usZxr3dRO2zz8FTSaA4NWut9GB_0iR/view?usp=sharing)
 
  ---
 ## 🎊 Mock Interview Examples
