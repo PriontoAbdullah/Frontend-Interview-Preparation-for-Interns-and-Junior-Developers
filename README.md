@@ -15,6 +15,7 @@
  - [How to prepare for Software Engineering Interview (youtube.com)](https://youtu.be/dCFsHECnkw8)
  - [How to write a Resume of a Software Engineer (youtube.com)](https://youtu.be/ELGK9NRtyss)
  - [How to write a Cover letter of a Web Developer (zety.com)](https://zety.com/blog/web-developer-cover-letter-example)
+ - [Frontend Interview | Get Placed in 2026 – Complete Guide How Big Companies Hire Developers (youtube.com)](https://youtu.be/wHVL07vHlvM)
 
 ---
 ## 🛸 HTML & CSS Basic Practice
