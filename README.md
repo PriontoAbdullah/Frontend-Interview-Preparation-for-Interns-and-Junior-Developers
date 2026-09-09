@@ -169,3 +169,7 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
+
+## Resume / ATS
+
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anonymous, 10/day free account) + open State of ATS 2026 (738 employers, 704 portal-verified; Workday 37.9%). Live candidate leaderboard is paid placement for visibility only — not pay-for-score / not pay-to-get-hired.
